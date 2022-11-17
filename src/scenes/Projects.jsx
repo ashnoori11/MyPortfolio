@@ -58,9 +58,7 @@ const Projects = () => {
                     </div>
                 </div>
                 <p className="mt-10 mb-10">
-                    Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-                    fames odio in at. At magna ornare dictum lectus. Purus massa morbi
-                    purus nec eget eleifend ut elit.
+                    In this section you can see some of my projects (freelance projects only)
                 </p>
             </motion.div>
 

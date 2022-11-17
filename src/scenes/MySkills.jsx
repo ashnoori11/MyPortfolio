@@ -1,6 +1,6 @@
 import LineGradient from "../components/LineGradient";
 import useMediaQuery from "../hooks/useMediaQuery";
-import {motion} from "framer-motion";
+import { motion } from "framer-motion";
 
 const MySkills = () => {
   const isAboveLarge = useMediaQuery("(min-width: 1060px)");
@@ -24,8 +24,12 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-            fames odio in at.
+            SQL,C#, JavaScript, HTML/CSS,Asp.net Core,
+            Jquery,dotNet FrameWork,Entity
+            Framework,Dapper,DomainDrivenDesign,
+            MediatR,Cqrs,Restful Api,Clean Code,
+            Clean Architecture,Onion Architecture,Mvc,Solid,
+            Domain Driven Design, Test Driven Development
           </p>
         </motion.div>
 
@@ -71,9 +75,7 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea. Est
-            morbi porttitor scelerisque fermentum, sagittis non egestas. Amet
-            odio sit sagittis,
+            More than 6 years of experience working in different teams as a web developer and designing more than 4 projects for private organizations.
           </p>
         </motion.div>
 
@@ -99,10 +101,9 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Urna, eget pulvinar dolor cursus volutpat dictum odio. Nec ultricies
-            amet in in neque nibh tortor. Libero sed pretium justo nulla blandit
-            nulla amet habitant iaculis. Iaculis in congue vitae sollicitudin
-            faucibus a
+            Designing and building an Excel import tool dynamically with C#.
+            Project implementation with parallel execution.
+            Building a chat room with signalR
           </p>
         </motion.div>
         {/* IMAGINATIVE */}
@@ -127,10 +128,7 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Accumsan eu fringilla nisi, eget. Vitae, eget ut id proin arcu in
-            curabitur. Lectus libero, egestas enim aliquam quis felis amet.
-            Sagittis, amet netus fringilla netus lobortis odio sed platea.
-            Bibendum.
+            One of my biggest goals and imaginations is my great interest in the Internet of Things, and I plan to be very creative in this area.
           </p>
         </motion.div>
       </div>
